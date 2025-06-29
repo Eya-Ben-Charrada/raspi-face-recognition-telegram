@@ -32,7 +32,7 @@ This project uses a **Raspberry Pi 5**, **Picamera2**, and **Face Recognition** 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/raspi-face-recognition-telegram.git
+git clone https://github.com/Eya-Ben-Charrada/raspi-face-recognition-telegram.git
 cd raspi-face-recognition-telegram
 ```
 
