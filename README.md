@@ -23,7 +23,7 @@ This project uses a **Raspberry Pi 5**, **Picamera2**, and **Face Recognition** 
 ## 🔧 Requirements
 
 - Raspberry Pi 5 with Raspberry Pi OS Bookworm
-- PiCamera module (v2 or HQ)
+- PiCamera module 
 - Python 3.11+
 - Internet connection
 
