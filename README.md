@@ -5,7 +5,7 @@
 ```bash
 raspi-face-recognition-telegram/
 ├── known_faces/              # Store images of known people
-│   └── eya.jpg
+│   └── photo1.jpg ..
 ├── logs/                     # Logs of detections (auto-generated)
 ├── snapshots/                # Snapshots of unknown faces (auto-generated)
 ├── main.py                   # Main face recognition and alert script
